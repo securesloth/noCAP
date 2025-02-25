@@ -18,7 +18,7 @@ The purpose of "noCAP" is to identify common misconfigurations in Conditional Ac
 
 * Use the following command to download dependencies:
 
-` pip3 install -r requirements.txt `
+` pip install -r requirements.txt `
 
 ## Usage
 * Use the following command to run the tool and initiate device code authentication
