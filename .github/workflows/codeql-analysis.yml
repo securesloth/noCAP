@@ -19,7 +19,7 @@ jobs:
 
     strategy:
       matrix:
-        language: [ 'python' ]  # Adjust based on repo
+        language: [ 'python' ]  # Adjust based on your repo
 
     steps:
       - name: Checkout repository
