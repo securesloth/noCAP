@@ -19,7 +19,7 @@ jobs:
 
     strategy:
       matrix:
-        language: [ 'javascript', 'python', 'go', 'java', 'csharp' ]  # Adjust based on repo
+        language: [ 'python' ]  # Adjust based on repo
 
     steps:
       - name: Checkout repository
